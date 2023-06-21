@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "^5.11.0",
     "@nuxtjs/pwa": "^3.0.0-beta.20",
     "@statnett/vue-plotly": "^0.3.2",
-    "nuxt": "^2.13.0",
+    "nuxt": "^3.4.3",
     "vue-d2b": "^1.0.7",
     "vue-d3": "^0.1.0",
     "vue-d3-sunburst": "^1.0.1",
